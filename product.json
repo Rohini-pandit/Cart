@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Iced Americano",
+        "price": 200,
+        "image": "images1/img1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Black Coffee",
+        "price": 180,
+        "image": "images1/img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Iced Matcha",
+        "price": 200,
+        "image": "images1/img3.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Hot Matcha",
+        "price": 180,
+        "image": "images1/img4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Iced Coffee",
+        "price": 200,
+        "image": "images1/img5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cold Strawberry-Coffee",
+        "price": 250,
+        "image": "images1/img6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Iced Butterscotch",
+        "price": 200,
+        "image": "images1/img7.jpg"
+    },
+    {
+        "id": 7,
+        "name": "4 in 1 Iced Drink Combo",
+        "price": 400,
+        "image": "images1/img8.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Vitamin-C Combo",
+        "price": 350,
+        "image": "images1/img9.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Chocolate Boba",
+        "price": 250,
+        "image": "images1/img10.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Blue Marine",
+        "price": 450,
+        "image": "images1/img11.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ice-cream Coffee",
+        "price": 300,
+        "image": "images1/img12.jpg"
+    }
+]
